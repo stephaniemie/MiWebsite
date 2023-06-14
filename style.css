@@ -1,0 +1,130 @@
+html { background-color: #ffdbb3;}
+
+body {
+  display: flex;
+  align-items: center;
+  text-align: center;
+    flex-direction: column;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+}
+
+.titulo {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  
+margin-top: 60px;
+  background-color: #ffab66;
+  border: solid;
+  border-radius: 1%;
+  text-align: center;
+  border-width: 10px;
+  margin-left: 1%;
+  margin-right: 1%;
+  border-color: #ff811a;
+  
+  
+}
+nav {
+  background-color: #ffab66;
+  border-radius: 1%;
+  border: solid;
+  border-color: #ff811a;
+    border-width: 4px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  list-style-type: none;
+  margin: 10px;
+  padding: 20px;
+  overflow: hidden;
+}
+  nav a {
+  color: black;
+  margin-right: 30px;
+}
+nav a:hover{
+  background-color: #ffe7cc
+}
+
+.contact {
+  background-color: #ffab66;
+  border-radius: 1%;
+  border: solid;
+  border-color: #ff811a;
+    border-width: 4px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  list-style-type: none;
+  margin: 10px;
+  padding: 20px;
+  overflow: hidden;
+}
+
+}
+.contenido h2{
+  color: black;
+  border: solid;
+  text-align: center;
+}
+.problema {
+  background-color: #ffcd94;
+  font-family: 'Times New Roman', Times, serif;
+    border: solid;
+  border-color: #ff811a; 
+  border-width: 2px;
+}
+.effects {
+  background-color: #ffcd94;
+  font-family: 'Times New Roman', Times, serif;
+    border: solid;
+  border-color: #ff811a; 
+  border-width: 2px;
+}
+  .effect {
+    text-align: left;
+  }
+  .helping {
+  background-color: #ffcd94;
+  font-family: 'Times New Roman', Times, serif;
+    border: solid;
+  border-color: #ff811a; 
+  border-width: 1px;
+}
+  .list {
+    text-align: left;
+  }
+footer {
+background-color: #ffab66;
+  border-radius: 1%;
+  border: solid;
+  border-color: #ff811a;
+    border-width: 4px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  list-style-type: none;
+  margin: 10px;
+  padding: 20px;
+  overflow: hidden;
+}
+  footer a {
+  color: black;
+  margin-right: 30px;
+}
+footer a:hover{
+  background-color: #ffe7cc
+  
+}
+.video1 {
+  background-color: #ff811a;
+  border: solid;
+  border-color: #ff811a;
+  border-width: 8px;
+}
+.video2 {
+  background-color: #ff811a;
+  border: solid;
+  border-color: #ff811a;
+  border-width: 8px;
+}
